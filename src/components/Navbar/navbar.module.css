@@ -1,0 +1,11 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: cadetblue;
+  padding: 15px 0px;
+  font-size: 25px;
+}
+.navbar p:hover{
+    color: white;
+    cursor: pointer;
+}

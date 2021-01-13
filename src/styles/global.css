@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+html {
+  background-color: bisque !important;
+  height: 100vh;
+  width: 100%;
+}
+.pageHeading {
+  display: flex;
+  justify-content: center;
+  border-bottom: 2px solid maroon;
+  text-align: center;
+  padding: 10px 0px;
+}
+.page-Wrapper {
+  height: 100vh;
+  /* width: 100vw; */
+}
